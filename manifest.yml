@@ -1,0 +1,6 @@
+---
+applications:
+- name: SpringBoot--test
+  memory: 512M
+  host: SpringBoot--15272
+  domain: run.aws-usw02-pr.ice.predix.io

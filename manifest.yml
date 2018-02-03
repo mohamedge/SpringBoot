@@ -1,6 +1,6 @@
 ---
 applications:
-- name: SpringBoot--test
+- name: momarspringcloud
   memory: 512M
-  host: SpringBoot--15272
+  host: momarspringcloud
   domain: run.aws-usw02-pr.ice.predix.io
